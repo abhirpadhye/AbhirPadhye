@@ -1,6 +1,7 @@
 		  	
-				
-![Hello Folks👋👋](https://github.com/abhirpadhye/Iamabhir/blob/main/Title.mp4)
+
+https://user-images.githubusercontent.com/72122670/136553668-247ed0df-760c-43cb-a5be-57288fb4739e.mp4
+
 
 🔭 I’m currently persuing undergraduation in Computer Science.
 
