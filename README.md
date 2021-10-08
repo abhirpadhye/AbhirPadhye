@@ -1,6 +1,9 @@
 		  	
 
-https://user-images.githubusercontent.com/72122670/136553668-247ed0df-760c-43cb-a5be-57288fb4739e.mp4
+
+
+https://user-images.githubusercontent.com/72122670/136589148-d2af9274-c6a1-4d93-afbd-9a3cd4a34438.mp4
+
 
 
 🔭 I’m currently pursuing undergraduation in Computer Science.
